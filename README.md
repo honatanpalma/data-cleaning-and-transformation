@@ -3,8 +3,7 @@
 This project demonstrates the application of common data cleaning and transformation techniques on a student performance dataset. The goal is to prepare the data for further analysis or machine learning modeling.
 
 ## Dataset Overview
-
-The dataset contains information about students, including their attendance rate, study hours, previous grades, extracurricular activities, parental support, and final grades.
+The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/haseebindata/student-performance-predictions and contains information about students, including their attendance rate, study hours, previous grades, extracurricular activities, parental support, and final grades.
 
 ## Steps Performed
 
